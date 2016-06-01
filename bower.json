@@ -1,0 +1,22 @@
+{
+  "name": "angular-router-demo",
+  "homepage": "https://github.com/castle-c/angular-router-demo",
+  "authors": [
+    "Castle Crawford <nathanscottcrawford@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.6",
+    "angular-route": "^1.5.6"
+  }
+}
